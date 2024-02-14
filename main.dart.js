@@ -87934,7 +87934,7 @@ q=$.eM()
 p=A.aC(j,o,i).w.a.a<600?12:14
 j=A.aC(j,o,i).w.a.a<600?B.bD:B.E
 i=B.c.ad(127.5)
-return A.Bu(new A.x6(l,g,0,B.i,!1,h.a.a*0.05,new A.VE(65,o,1/0,65),65,k,o),o,new A.An(!0,B.b_,a.CW,new A.a9Q(a),s,o),A.bG(o,A.qe(A.a([A.cA("\xa9 2024 Nusantara Engineering Solutions. All Rights Reserved.",o,o,o,o,o,o,o,o,A.e3().$4$color$fontSize$fontStyle$fontWeight(A.L(i,255,255,255),p,B.cg,j),o,o,o,o,o),A.qe(A.a([A.bG(o,A.e5(new A.f9(B.N,o,o,A.Lv(o,A.ay8(B.Fc,A.L(i,255,255,255),25),new A.a9R(a),o,o),o),o,o),B.l,o,o,o,o,40,new A.ar(0,0,0,0),o,o,o,30),A.bG(o,A.Lv(o,A.ay8(B.Fd,A.L(i,255,255,255),25),new A.a9S(a),o,o),B.l,o,o,o,o,40,o,o,o,o,30)],n),B.aR,B.jY,B.bs)],n),B.aR,B.jZ,B.bs),B.l,q,o,o,o,r,o,B.Es,o,o,o),new A.Kg(m,o))},
+return A.Bu(new A.x6(l,g,0,B.i,!1,h.a.a*0.05,new A.VE(65,o,1/0,65),65,k,o),o,new A.An(!0,B.b_,a.CW,new A.a9Q(a),s,o),A.bG(o,A.qe(A.a([A.cA("\xa9 2024 Nusantara Engineering Solutions.",o,o,o,o,o,o,o,o,A.e3().$4$color$fontSize$fontStyle$fontWeight(A.L(i,255,255,255),p,B.cg,j),o,o,o,o,o),A.qe(A.a([A.bG(o,A.e5(new A.f9(B.N,o,o,A.Lv(o,A.ay8(B.Fc,A.L(i,255,255,255),25),new A.a9R(a),o,o),o),o,o),B.l,o,o,o,o,40,new A.ar(0,0,0,0),o,o,o,30),A.bG(o,A.Lv(o,A.ay8(B.Fd,A.L(i,255,255,255),25),new A.a9S(a),o,o),B.l,o,o,o,o,40,o,o,o,o,30)],n),B.aR,B.jY,B.bs)],n),B.aR,B.jZ,B.bs),B.l,q,o,o,o,r,o,B.Es,o,o,o),new A.Kg(m,o))},
 $S:500}
 A.a9J.prototype={
 $0(){var s=0,r=A.Q(t.H),q=this,p
