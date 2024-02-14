@@ -88129,7 +88129,7 @@ o=A.a2(i,l,h).w
 e=e.gj(e)
 n=$.bS()
 m=t.p
-m=A.nB(A.a([s,A.mK(A.dw(A.bd(l,A.e0(A.a([r,q,A.jC(A.bd(l,A.Qy(B.az,!1,A.bE(e,l,l,l,l,l,l,l,l,A.cg().$3$color$fontSize$fontWeight(n,A.a2(i,l,h).w.a.a<580?A.a2(i,l,h).w.a.b*0.02:A.a2(i,l,h).w.a.a*0.02,B.a2),l,l,l,l,l)),B.j,l,l,l,l,o.a.b*0.35,l,B.mN,l,l,l),p)],m),B.W,B.cP,B.a8),B.j,l,l,l,l,l,l,l,l,l,l),l,l))],m),B.W,B.cP,B.a8)
+m=A.nB(A.a([s,A.mK(A.dw(A.bd(l,A.e0(A.a([r,q,A.jC(A.bd(l,A.Qy(B.az,!1,A.bE(e,l,l,l,l,l,l,l,l,A.cg().$3$color$fontSize$fontWeight(n,A.a2(i,l,h).w.a.a<580?A.a2(i,l,h).w.a.b*0.02:A.a2(i,l,h).w.a.a*0.02,B.a2),l,l,l,l,l)),B.j,l,l,l,l,o.a.b*0.4,l,B.mN,l,l,l),p)],m),B.W,B.cP,B.a8),B.j,l,l,l,l,l,l,l,l,l,l),l,l))],m),B.W,B.cP,B.a8)
 i=m}else{s=A.mK(A.dw(A.bd(l,A.a9I(k),B.j,l,l,l,l,l,l,l,l,l,l),l,l))
 r=A.da(l,20,l)
 q=A.a2(i,l,h).w
@@ -88803,11 +88803,12 @@ h=l}else{s=A.a2(h,k,g).w
 s=A.bE(i,k,k,k,k,k,k,k,k,A.cg().$3$color$fontSize$fontWeight($.bS(),s.a.a*0.05,B.bg),k,k,k,k,k)
 r=A.da(k,30,k)
 q=A.K(B.c.a9(127.5),200,230,201)
-p=A.cr(0,100)
+p=A.a2(h,k,g).w
+o=A.cr(0,100)
 d=d.gj(d)
 h=A.a2(h,k,g).w.a.a<580?A.a2(h,k,g).w.a.b*0.02:A.a2(h,k,g).w.a.a*0.02
 g=t.p
-g=A.dw(A.nB(A.a([A.mK(A.e0(A.a([s,r,A.jC(A.bd(k,A.Qy(p,!1,A.bE(d,k,k,k,k,k,k,k,k,A.cg().$3$color$fontSize$fontWeight($.bS(),h,B.bg),k,k,k,k,k)),B.j,k,k,k,k,k,k,new A.ao(15,15,15,15),k,k,k),q)],g),B.W,B.aP,B.a8)),A.mK(A.dw(A.bd(k,A.a9I(j),B.j,k,k,k,k,k,k,k,k,k,k),k,k))],g),B.W,B.aP,B.a8),k,k)
+g=A.dw(A.nB(A.a([A.mK(A.e0(A.a([s,r,A.jC(A.bd(k,A.Qy(o,!1,A.bE(d,k,k,k,k,k,k,k,k,A.cg().$3$color$fontSize$fontWeight($.bS(),h,B.bg),k,k,k,k,k)),B.j,k,k,k,k,p.a.b*0.4,k,new A.ao(15,15,15,15),k,k,k),q)],g),B.W,B.aP,B.a8)),A.mK(A.dw(A.bd(k,A.a9I(j),B.j,k,k,k,k,k,k,k,k,k,k),k,k))],g),B.W,B.aP,B.a8),k,k)
 h=g}return A.uM(k,k,A.bd(k,h,B.j,k,k,k,k,e.a.b,k,new A.ao(f,f,f,f),k,k,k),k,k)},
 $S:507}
 A.y1.prototype={
